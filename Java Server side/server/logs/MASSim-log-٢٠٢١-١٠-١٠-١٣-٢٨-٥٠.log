@@ -1,0 +1,15 @@
+[ NORMAL  ]  ##   got authentication: username=agentb1 password=1 address=127.0.0.1
+[ ERROR  ]  ##   Got invalid authentication from: 127.0.0.1
+[ NORMAL  ]  ##   Please press ENTER to start the tournament.
+[ NORMAL  ]  ##   got authentication: username=agentb1 password=1 address=127.0.0.1
+[ ERROR  ]  ##   Got invalid authentication from: 127.0.0.1
+[ NORMAL  ]  ##   got authentication: username=agentb1 password=1 address=127.0.0.1
+[ ERROR  ]  ##   Got invalid authentication from: 127.0.0.1
+[ NORMAL  ]  ##   got authentication: username=agentb1 password=1 address=127.0.0.1
+[ ERROR  ]  ##   Got invalid authentication from: 127.0.0.1
+[ NORMAL  ]  ##   got authentication: username=agentb1 password=1 address=127.0.0.1
+[ ERROR  ]  ##   Got invalid authentication from: 127.0.0.1
+[ NORMAL  ]  ##   got authentication: username=agentb1 password=1 address=127.0.0.1
+[ ERROR  ]  ##   Got invalid authentication from: 127.0.0.1
+[ NORMAL  ]  ##   got authentication: username=agentA1 password=1 address=127.0.0.1
+[ NORMAL  ]  ##   agentA1 authentication successful

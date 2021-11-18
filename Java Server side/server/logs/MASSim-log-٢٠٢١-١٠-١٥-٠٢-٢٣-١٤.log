@@ -1,0 +1,35 @@
+[ NORMAL  ]  ##   Please press ENTER to start the tournament.
+[ NORMAL  ]  ##   Configuring random seed: 17
+[ NORMAL  ]  ##   config.randomFail: 0
+[ NORMAL  ]  ##   config.attachLimit: 10
+[ NORMAL  ]  ##   config.clearSteps: 3
+[ NORMAL  ]  ##   config.clusterBounds: 1, 3
+[ NORMAL  ]  ##   config.clearEnergyCost: 50
+[ NORMAL  ]  ##   config.disableDuration: 4
+[ NORMAL  ]  ##   config.maxEnergy: 300
+[ NORMAL  ]  ##   config.blockTypes: [3,3] -> 3
+[ NORMAL  ]  ##   config.dispensersBounds: [2,3]
+[ NORMAL  ]  ##   config.tasks.duration: [100,200]
+[ NORMAL  ]  ##   config.tasks.size: [1,1]
+[ NORMAL  ]  ##   config.tasks.rewardDecay: [1,2]
+[ NORMAL  ]  ##   config.tasks.probability: 0.05
+[ NORMAL  ]  ##   config.taskboards: 3
+[ NORMAL  ]  ##   config.distanceToTaskboards: 8
+[ NORMAL  ]  ##   config.tasks.lowerRewardLimit: 10
+[ NORMAL  ]  ##   config.events.chance: 0
+[ NORMAL  ]  ##   config.events.radius: 3 - 5
+[ NORMAL  ]  ##   config.events.warning: 5
+[ NORMAL  ]  ##   config.events.create: 5 - 10
+[ NORMAL  ]  ##   config.events.perimeter: 2
+[ NORMAL  ]  ##   Created dispenser(18,27,b0)
+[ NORMAL  ]  ##   Created dispenser(33,23,b0)
+[ NORMAL  ]  ##   Created dispenser(7,27,b0)
+[ NORMAL  ]  ##   Created dispenser(39,0,b1)
+[ NORMAL  ]  ##   Created dispenser(28,17,b1)
+[ NORMAL  ]  ##   Created dispenser(35,14,b2)
+[ NORMAL  ]  ##   Created dispenser(31,34,b2)
+[ NORMAL  ]  ##   Created dispenser(23,21,b2)
+[ NORMAL  ]  ##   Created Taskboard(1,38)
+[ NORMAL  ]  ##   Created Taskboard(6,22)
+[ NORMAL  ]  ##   Created Taskboard(28,37)
+[ NORMAL  ]  ##   Simulation at step 0
